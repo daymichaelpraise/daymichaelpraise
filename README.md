@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daymichaelpraise
 - 👀 I’m interested in PHP, WordPress, Web Dev
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a new web dev project
 - 📫 How to reach me praisedaymichael@gmail.com
 
 <!---
